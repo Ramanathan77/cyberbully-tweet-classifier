@@ -1,8 +1,4 @@
-Absolutely! Here's a clean, **copy-paste-ready `README.md`** for your **Cyberbullying Tweet Classifier** project:
 
----
-
-```markdown
 # 🚫 Cyberbullying Tweet Classifier
 
 This project is a machine learning-based tweet classifier that detects different types of cyberbullying. It helps in identifying online harassment such as sexism, racism, and other offensive behavior from Twitter text data.
@@ -12,7 +8,6 @@ This project is a machine learning-based tweet classifier that detects different
 ## 📁 Project Structure
 
 ```
-
 cyberbullying-tweet-classifier/
 ├── data/          # Dataset files (CSV)
 ├── models/        # Saved trained models
@@ -20,8 +15,7 @@ cyberbullying-tweet-classifier/
 ├── src/           # Scripts for training, prediction, and preprocessing
 ├── README.md      # Project documentation
 ├── requirements.txt
-
-````
+```
 
 ---
 
@@ -44,7 +38,7 @@ cyberbullying-tweet-classifier/
 ```bash
 git clone https://github.com/Ramanathan77/cyberbully-tweet-classifier.git
 cd cyberbully-tweet-classifier
-````
+```
 
 2. **Install Dependencies**
 
@@ -74,11 +68,11 @@ The dataset is located in the `data/` folder and contains labeled tweets with va
 
 ## ✅ Requirements
 
-* Python 3.8+
-* pandas
-* scikit-learn
-* nltk
-* joblib
+- Python 3.8+
+- pandas
+- scikit-learn
+- nltk
+- joblib
 
 Install all with:
 
@@ -90,7 +84,7 @@ pip install -r requirements.txt
 
 ## 👨‍💻 Author
 
-**Ramanathan**
+**Ramanathan**  
 GitHub: [@Ramanathan77](https://github.com/Ramanathan77)
 
 ---
@@ -98,7 +92,3 @@ GitHub: [@Ramanathan77](https://github.com/Ramanathan77)
 ## 🌟 License
 
 This project is for educational purposes. Feel free to use, modify, and share.
-
-```
-
-
